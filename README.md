@@ -6,6 +6,6 @@ There are also 2 pie charts, one for the races percentages and one for the jobs 
 
 Finally, there's a comparison for gender in each state.
 
-The repo contains a screenshot of the dashboard, the tablau file and the data set in csv format.
+The repo contains a screenshot of the dashboard, the tableau file and the data set in csv format.
 
 The link for the dashboard in Tableau Public: https://shorturl.at/cNO04
